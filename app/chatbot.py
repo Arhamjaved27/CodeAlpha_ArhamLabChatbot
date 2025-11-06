@@ -12,13 +12,23 @@ from app.utils import load_spacy_model, preprocess_text
 class FAQChatbot:
     """FAQ Chatbot using TF-IDF and cosine similarity"""
     
-    def __init__(self, faqs_file: str = "data/faqs.json"):
+    def __init__(self, faqs_file: str = None):
         """
         Initialize the chatbot
         
         Args:
-            faqs_file: Path to the JSON file containing FAQs
+            faqs_file: Path to the JSON file containing FAQs (relative to project root)
         """
+        if faqs_file is None:
+            # Get the project root directory (parent of app directory)
+            project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+            faqs_file = os.path.join(project_root, "data", "faqs.json")
+        
+        # Convert to absolute path if relative
+        if not os.path.isabs(faqs_file):
+            project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+            faqs_file = os.path.join(project_root, faqs_file)
+        
         self.faqs_file = faqs_file
         self.faqs: List[FAQ] = []
         self.nlp = load_spacy_model()

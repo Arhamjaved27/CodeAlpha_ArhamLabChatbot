@@ -79,6 +79,8 @@ pip install -r requirements.txt
 ```
 
 4. **Download SpaCy English model** (choose one method):
+   
+   **Important:** Make sure your virtual environment is activated before installing the model!
 
    **Method 1 - Using pip directly (Recommended):**
    ```bash
