@@ -10,7 +10,6 @@ const typingIndicator = document.getElementById('typingIndicator');
 document.addEventListener('DOMContentLoaded', () => {
     userInput.focus();
     
-    // Send on Enter key
     userInput.addEventListener('keypress', (e) => {
         if (e.key === 'Enter' && !e.shiftKey) {
             e.preventDefault();
@@ -18,7 +17,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
     
-    // Send button click
     sendButton.addEventListener('click', sendMessage);
 });
 

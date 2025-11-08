@@ -120,7 +120,6 @@ class FAQChatbot:
             }
 
         # Check for simple conversational intents (greeting / goodbye)
-        # Use simple regex matching so we don't rely on the TF-IDF index for short chit-chat
         if self._greeting_patterns.search(user_question):
             return {
                 "answer": self.greeting_response,
