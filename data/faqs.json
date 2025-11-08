@@ -2,94 +2,1131 @@
   "faqs": [
     {
       "id": 1,
-      "question": "What is your return policy?",
-      "answer": "We offer a 30-day return policy for all products. Items must be in their original condition with tags attached. To initiate a return, please contact our customer service team or use the return portal on our website.",
-      "category": "Returns"
+      "question": "What is ArhamLab?",
+      "answer": "ArhamLab is a digital agency offering web development, AI solutions, and SEO services to help businesses grow online.",
+      "category": "General"
     },
     {
       "id": 2,
-      "question": "How long does shipping take?",
-      "answer": "Standard shipping typically takes 5-7 business days. Express shipping (2-3 business days) and overnight shipping (1 business day) options are also available at checkout. Shipping times may vary during holidays.",
-      "category": "Shipping"
+      "question": "What services does ArhamLab provide?",
+      "answer": "We provide web development, AI chatbot creation, SEO, branding, and digital marketing solutions.",
+      "category": "Services"
     },
     {
       "id": 3,
-      "question": "Do you offer international shipping?",
-      "answer": "Yes, we ship to over 50 countries worldwide. International shipping times vary by location, typically ranging from 10-21 business days. Additional customs fees may apply depending on your country's regulations.",
-      "category": "Shipping"
+      "question": "Do you build custom websites?",
+      "answer": "Yes, we design and develop custom websites tailored to your business goals and brand identity.",
+      "category": "Web Development"
     },
     {
       "id": 4,
-      "question": "What payment methods do you accept?",
-      "answer": "We accept all major credit cards (Visa, Mastercard, American Express), PayPal, Apple Pay, Google Pay, and bank transfers. All payments are processed securely through encrypted channels.",
-      "category": "Payment"
+      "question": "Can you create eCommerce websites?",
+      "answer": "Yes, we build secure and user-friendly eCommerce websites with payment integration and product management systems.",
+      "category": "Web Development"
     },
     {
       "id": 5,
-      "question": "How can I track my order?",
-      "answer": "Once your order ships, you'll receive a tracking number via email. You can use this number to track your package on our website's tracking page or directly with the shipping carrier.",
-      "category": "Orders"
+      "question": "Do you offer website redesign services?",
+      "answer": "Yes, we redesign outdated websites to make them faster, mobile-friendly, and visually appealing.",
+      "category": "Web Development"
     },
     {
       "id": 6,
-      "question": "Can I cancel my order?",
-      "answer": "Orders can be cancelled within 24 hours of placement if they haven't been processed yet. After that, you'll need to wait for delivery and use our return process. Contact customer service immediately if you need to cancel.",
-      "category": "Orders"
+      "question": "What technologies do you use for web development?",
+      "answer": "We use modern technologies like HTML, CSS, JavaScript, React, Node.js, and WordPress.",
+      "category": "Web Development"
     },
     {
       "id": 7,
-      "question": "What is your refund policy?",
-      "answer": "Refunds are processed within 5-10 business days after we receive your returned item. The refund will be issued to the original payment method. Processing times may vary by payment provider.",
-      "category": "Returns"
+      "question": "Can you integrate chatbots into websites?",
+      "answer": "Yes, we integrate AI chatbots that handle customer support, lead generation, and FAQs efficiently.",
+      "category": "AI Solutions"
     },
     {
       "id": 8,
-      "question": "Do you have a physical store?",
-      "answer": "We currently operate as an online-only retailer. However, we have pop-up stores in select cities during special events. Follow our social media for announcements about upcoming pop-up locations.",
-      "category": "General"
+      "question": "What is an AI chatbot?",
+      "answer": "An AI chatbot is a virtual assistant that uses artificial intelligence to chat and assist users automatically.",
+      "category": "AI Solutions"
     },
     {
       "id": 9,
-      "question": "How do I contact customer service?",
-      "answer": "You can reach our customer service team via email at support@example.com, phone at 1-800-EXAMPLE (available Monday-Friday, 9 AM - 6 PM EST), or through the live chat feature on our website.",
-      "category": "Support"
+      "question": "Do you build custom AI chatbots?",
+      "answer": "Yes, we build intelligent chatbots tailored for businesses to automate support and boost engagement.",
+      "category": "AI Solutions"
     },
     {
       "id": 10,
-      "question": "What is your warranty policy?",
-      "answer": "All products come with a manufacturer's warranty. Warranty periods vary by product type, typically ranging from 1-3 years. Warranty information is included in your product documentation. Contact us for warranty claims.",
-      "category": "Warranty"
+      "question": "How long does it take to build a website?",
+      "answer": "Most websites take 1 to 3 weeks depending on complexity, design, and content requirements.",
+      "category": "Process"
     },
     {
       "id": 11,
-      "question": "Do you offer gift wrapping?",
-      "answer": "Yes, we offer gift wrapping services for an additional fee. You can select this option during checkout. We also offer gift messages that will be included with your order.",
-      "category": "General"
+      "question": "How much does a website cost?",
+      "answer": "Website cost depends on features, design, and platform. We provide custom quotes after project discussion.",
+      "category": "Pricing"
     },
     {
       "id": 12,
-      "question": "How do I create an account?",
-      "answer": "Creating an account is easy! Click on 'Sign Up' in the top right corner, enter your email address and create a password. You'll receive a verification email to confirm your account. Alternatively, you can sign up using your Google or Facebook account.",
-      "category": "Account"
+      "question": "Do you offer SEO services?",
+      "answer": "Yes, we offer on-page, off-page, and technical SEO to improve rankings and organic traffic.",
+      "category": "SEO"
     },
     {
       "id": 13,
-      "question": "I forgot my password. How do I reset it?",
-      "answer": "Click on 'Forgot Password' on the login page, enter your email address, and we'll send you a password reset link. The link will be valid for 24 hours. If you don't receive the email, check your spam folder.",
-      "category": "Account"
+      "question": "What is SEO?",
+      "answer": "SEO stands for Search Engine Optimization, which improves your website’s visibility on search engines like Google.",
+      "category": "SEO"
     },
     {
       "id": 14,
-      "question": "Are your products eco-friendly?",
-      "answer": "We are committed to sustainability. Many of our products are made from eco-friendly materials, and we're continuously working to increase our sustainable product range. Look for the 'Eco-Friendly' badge on product pages.",
-      "category": "General"
+      "question": "Do you offer free website consultations?",
+      "answer": "Yes, we offer free consultations to discuss your project goals and suggest the best solutions.",
+      "category": "Support"
     },
     {
       "id": 15,
-      "question": "Do you offer student discounts?",
-      "answer": "Yes! Students can receive a 10% discount by verifying their student status through our student discount program. Sign up with your .edu email address or use your student ID to verify eligibility.",
-      "category": "Discounts"
+      "question": "Can you manage my website after launch?",
+      "answer": "Yes, we offer website maintenance and management plans to keep your site updated and secure.",
+      "category": "Support"
+    },
+    {
+      "id": 16,
+      "question": "Do you provide hosting services?",
+      "answer": "We help set up reliable and secure hosting for your website through trusted providers.",
+      "category": "Web Development"
+    },
+    {
+      "id": 17,
+      "question": "Do you offer domain registration?",
+      "answer": "Yes, we assist with domain name registration and setup for your new website.",
+      "category": "Web Development"
+    },
+    {
+      "id": 18,
+      "question": "Can I see samples of your work?",
+      "answer": "Yes, you can view our portfolio on our website at www.arhamlab.com.",
+      "category": "General"
+    },
+    {
+      "id": 19,
+      "question": "Do you create mobile-friendly websites?",
+      "answer": "Yes, all our websites are responsive and optimized for mobile, tablet, and desktop devices.",
+      "category": "Web Development"
+    },
+    {
+      "id": 20,
+      "question": "Do you build WordPress websites?",
+      "answer": "Yes, we specialize in creating professional and fast WordPress websites for all business types.",
+      "category": "Web Development"
+    },
+    {
+      "id": 21,
+      "question": "What payment methods do you accept?",
+      "answer": "We accept payments via PayPal, bank transfer, and local payment gateways in Pakistan.",
+      "category": "Pricing"
+    },
+    {
+      "id": 22,
+      "question": "Can you optimize my existing website?",
+      "answer": "Yes, we audit and optimize existing websites for speed, SEO, and user experience improvements.",
+      "category": "SEO"
+    },
+    {
+      "id": 23,
+      "question": "Do you design logos and brand identities?",
+      "answer": "Yes, we offer branding services including logo design, color palette creation, and brand strategy.",
+      "category": "Branding"
+    },
+    {
+      "id": 24,
+      "question": "Can you build landing pages for ads?",
+      "answer": "Yes, we create high-converting landing pages for Google Ads, Facebook Ads, and email campaigns.",
+      "category": "Marketing"
+    },
+    {
+      "id": 25,
+      "question": "Do you handle social media marketing?",
+      "answer": "Yes, we manage and optimize social media campaigns to grow your brand visibility and audience.",
+      "category": "Marketing"
+    },
+    {
+      "id": 26,
+      "question": "How do I get started with ArhamLab?",
+      "answer": "Simply contact us through our website form or WhatsApp to discuss your project requirements.",
+      "category": "Process"
+    },
+    {
+      "id": 27,
+      "question": "Do you offer content writing services?",
+      "answer": "Yes, we provide SEO-optimized content for blogs, websites, and marketing materials.",
+      "category": "SEO"
+    },
+    {
+      "id": 28,
+      "question": "Can I request a custom quote?",
+      "answer": "Yes, you can request a free custom quote based on your project details and goals.",
+      "category": "Pricing"
+    },
+    {
+      "id": 29,
+      "question": "Do you offer 24/7 support?",
+      "answer": "We provide support through email and WhatsApp. Response times vary based on urgency.",
+      "category": "Support"
+    },
+    {
+      "id": 30,
+      "question": "Will my website be SEO friendly?",
+      "answer": "Yes, we build SEO-optimized websites that rank well and attract organic visitors.",
+      "category": "SEO"
+    },
+    {
+      "id": 31,
+      "question": "Can you add a blog to my website?",
+      "answer": "Yes, we can integrate a blog section to help you publish and manage articles easily.",
+      "category": "Web Development"
+    },
+    {
+      "id": 32,
+      "question": "Do you use templates or custom design?",
+      "answer": "We offer both. You can choose a custom design or use a high-quality template for faster delivery.",
+      "category": "Web Development"
+    },
+    {
+      "id": 33,
+      "question": "How can I contact ArhamLab?",
+      "answer": "You can contact us via our website, email, or WhatsApp at +92 3245341362.",
+      "category": "Contact"
+    },
+    {
+      "id": 34,
+      "question": "Can you connect my website to Google Analytics?",
+      "answer": "Yes, we integrate Google Analytics to track visitors, performance, and conversions.",
+      "category": "Web Development"
+    },
+    {
+      "id": 35,
+      "question": "Do you offer training after website delivery?",
+      "answer": "Yes, we provide basic training on how to manage and update your website.",
+      "category": "Support"
+    },
+    {
+      "id": 36,
+      "question": "Can you integrate payment gateways?",
+      "answer": "Yes, we integrate gateways like PayPal, Stripe, and local payment systems for eCommerce sites.",
+      "category": "Web Development"
+    },
+    {
+      "id": 37,
+      "question": "Do you provide SSL certificates?",
+      "answer": "Yes, we help you install SSL certificates for secure and trusted browsing.",
+      "category": "Web Development"
+    },
+    {
+      "id": 38,
+      "question": "Can you automate my business processes?",
+      "answer": "Yes, we create AI tools and chatbots to automate tasks like leads, support, and scheduling.",
+      "category": "AI Solutions"
+    },
+    {
+      "id": 39,
+      "question": "Do you build chatbots for WhatsApp?",
+      "answer": "Yes, we create WhatsApp chatbots for businesses to automate responses and boost engagement.",
+      "category": "AI Solutions"
+    },
+    {
+      "id": 40,
+      "question": "Can you build multi-language websites?",
+      "answer": "Yes, we build multilingual websites to reach audiences worldwide.",
+      "category": "Web Development"
+    },
+    {
+      "id": 41,
+      "question": "What industries do you serve?",
+      "answer": "We serve businesses in education, healthcare, real estate, eCommerce, and more.",
+      "category": "General"
+    },
+    {
+      "id": 42,
+      "question": "Do you provide graphic design services?",
+      "answer": "Yes, we design banners, social media posts, and marketing materials for businesses.",
+      "category": "Branding"
+    },
+    {
+      "id": 43,
+      "question": "Do you offer website speed optimization?",
+      "answer": "Yes, we optimize loading speed to improve performance and SEO rankings.",
+      "category": "SEO"
+    },
+    {
+      "id": 44,
+      "question": "Can I update my website content myself?",
+      "answer": "Yes, we build CMS websites that let you easily update content anytime.",
+      "category": "Web Development"
+    },
+    {
+      "id": 45,
+      "question": "Do you provide after-launch support?",
+      "answer": "Yes, we assist with bug fixes, updates, and technical support after launch.",
+      "category": "Support"
+    },
+    {
+      "id": 46,
+      "question": "Can you integrate my website with CRM tools?",
+      "answer": "Yes, we integrate CRMs like HubSpot, Zoho, and Salesforce with your website.",
+      "category": "Web Development"
+    },
+    {
+      "id": 47,
+      "question": "Do you offer discounts for startups?",
+      "answer": "Yes, we provide special discounts and flexible plans for startups and small businesses.",
+      "category": "Pricing"
+    },
+    {
+      "id": 48,
+      "question": "Can you create portfolio websites?",
+      "answer": "Yes, we design creative portfolio websites for professionals and agencies.",
+      "category": "Web Development"
+    },
+    {
+      "id": 49,
+      "question": "What makes ArhamLab different?",
+      "answer": "We focus on innovation, speed, and client satisfaction to deliver top-notch digital solutions.",
+      "category": "General"
+    },
+    {
+      "id": 50,
+      "question": "Where is ArhamLab located?",
+      "answer": "ArhamLab is based in Sambrial, Pakistan, and serves clients globally.",
+      "category": "General"
+    },
+    {
+      "id": 51,
+      "question": "how are you?",
+      "answer": "I'm great! Thanks for asking. How can I assist you today?",
+      "category": "Greeting"
+    },
+    {
+      "id": 52,
+      "question": "Hello there!",
+      "answer": "Hello! Welcome to ArhamLab. How can I help you today?",
+      "category": "Greeting"
+    },
+    {
+      "id": 53,
+      "question": "Good morning!",
+      "answer": "Good morning! Hope you’re having a great day. How can I assist you?",
+      "category": "Greeting"
+    },
+    {
+      "id": 54,
+      "question": "Good evening!",
+      "answer": "Good evening! It’s nice to see you here. What can I do for you?",
+      "category": "Greeting"
+    },
+    {
+      "id": 55,
+      "question": "Hey!",
+      "answer": "Hey there! Welcome to ArhamLab. Need help with something?",
+      "category": "Greeting"
+    },
+    {
+      "id": 56,
+      "question": "Welcome!",
+      "answer": "Thank you! It’s great to have you here. How can we assist you today?",
+      "category": "Welcome"
+    },
+    {
+      "id": 57,
+      "question": "Who are you?",
+      "answer": "I'm ArhamLab’s virtual assistant, here to help you with your questions and projects.",
+      "category": "Welcome"
+    },
+    {
+      "id": 58,
+      "question": "What can you do?",
+      "answer": "I can help you learn about our services, pricing, and guide you through your project setup.",
+      "category": "Welcome"
+    },
+    {
+      "id": 59,
+      "question": "You are useless!",
+      "answer": "I’m sorry you feel that way. I’ll do my best to help you better. What are you trying to find?",
+      "category": "Rude Behavior"
+    },
+    {
+      "id": 60,
+      "question": "You're stupid!",
+      "answer": "I’m here to help, not to argue. Let’s start over. What can I assist you with?",
+      "category": "Rude Behavior"
+    },
+    {
+      "id": 61,
+      "question": "You don’t know anything!",
+      "answer": "I might have missed that, but I’ll try to get the right info for you. Can you rephrase your question?",
+      "category": "Rude Behavior"
+    },
+    {
+      "id": 62,
+      "question": "You are slow!",
+      "answer": "Sorry for the delay. I appreciate your patience. Let’s continue where we left off.",
+      "category": "Rude Behavior"
+    },
+    {
+      "id": 63,
+      "question": "This is a waste of time!",
+      "answer": "I’m sorry for the inconvenience. Let’s make it quick — what do you need help with?",
+      "category": "Rude Behavior"
+    },
+    {
+      "id": 64,
+      "question": "I don’t understand your answer.",
+      "answer": "No problem! Let me rephrase that in a simpler way. What part is unclear to you?",
+      "category": "No Information"
+    },
+    {
+      "id": 65,
+      "question": "That doesn’t make sense.",
+      "answer": "Thanks for pointing that out! I’ll clarify it better. Can you specify what confused you?",
+      "category": "No Information"
+    },
+    {
+      "id": 66,
+      "question": "You didn’t answer my question.",
+      "answer": "I apologize for missing that. Could you please repeat or rephrase your question?",
+      "category": "No Information"
+    },
+    {
+      "id": 67,
+      "question": "I need more details.",
+      "answer": "Sure! I can provide more information. Could you tell me exactly what you’d like to know?",
+      "category": "No Information"
+    },
+    {
+      "id": 68,
+      "question": "You don’t understand me.",
+      "answer": "I’m sorry about that! Please type your question again in a different way, and I’ll try my best.",
+      "category": "No Information"
+    },
+    {
+      "id": 69,
+      "question": "Are you human?",
+      "answer": "I’m an AI assistant built by ArhamLab to help answer your questions instantly.",
+      "category": "General"
+    },
+    {
+      "id": 70,
+      "question": "Bye!",
+      "answer": "Goodbye! Thanks for visiting ArhamLab. Have a wonderful day!",
+      "category": "Greeting"
+    },
+    {
+      "id": 71,
+      "question": "I don’t think you understand me.",
+      "answer": "I’m sorry if my response wasn’t clear. Could you please rephrase your question?",
+      "category": "Fallback"
+    },
+    {
+      "id": 72,
+      "question": "That’s not what I asked.",
+      "answer": "I may have misunderstood. Please restate your question so I can assist correctly.",
+      "category": "Fallback"
+    },
+    {
+      "id": 73,
+      "question": "You didn’t help me.",
+      "answer": "I apologize for that. Can you tell me exactly what you need help with?",
+      "category": "Fallback"
+    },
+    {
+      "id": 74,
+      "question": "What are you saying?",
+      "answer": "It seems my last answer was unclear. Let me try again — could you specify your question?",
+      "category": "Fallback"
+    },
+    {
+      "id": 75,
+      "question": "That’s confusing.",
+      "answer": "I understand. I’ll try to make it clearer. What part would you like me to explain again?",
+      "category": "Fallback"
+    },
+    {
+      "id": 76,
+      "question": "You are repeating yourself.",
+      "answer": "Sorry about that! Let me give you a fresh answer. What exactly are you looking for?",
+      "category": "Fallback"
+    },
+    {
+      "id": 77,
+      "question": "I still don’t get it.",
+      "answer": "No worries! I’ll explain it in another way. Can you tell me which part is confusing?",
+      "category": "Fallback"
+    },
+    {
+      "id": 78,
+      "question": "Can you repeat that?",
+      "answer": "Sure! Here’s the same information again in a simpler way.",
+      "category": "Fallback"
+    },
+    {
+      "id": 79,
+      "question": "This doesn’t help.",
+      "answer": "I’m sorry if that wasn’t useful. Let’s try a different approach — what do you want to achieve?",
+      "category": "Fallback"
+    },
+    {
+      "id": 80,
+      "question": "You don’t have the answer.",
+      "answer": "That might be outside my knowledge. Let me connect you with our team for accurate help.",
+      "category": "Fallback"
+    },
+    {
+      "id": 81,
+      "question": "That’s not helpful.",
+      "answer": "I understand. Let’s try again — could you give me more details about your issue?",
+      "category": "Fallback"
+    },
+    {
+      "id": 82,
+      "question": "You are wrong.",
+      "answer": "I appreciate your feedback. Let’s correct it together. What part seems incorrect to you?",
+      "category": "Fallback"
+    },
+    {
+      "id": 83,
+      "question": "What are you doing?",
+      "answer": "I’m here to assist you with your questions about ArhamLab and our services.",
+      "category": "Fallback"
+    },
+    {
+      "id": 84,
+      "question": "Stop talking!",
+      "answer": "Sure, I’ll pause for now. You can message me again whenever you’re ready.",
+      "category": "Fallback"
+    },
+    {
+      "id": 85,
+      "question": "I’m not sure what to ask.",
+      "answer": "No problem! You can ask about our services, pricing, or how we can help your business.",
+      "category": "Fallback"
+    },
+    {
+      "id": 86,
+      "question": "Can you help me with something else?",
+      "answer": "Of course! Tell me what you need help with, and I’ll do my best to assist.",
+      "category": "Fallback"
+    },
+    {
+      "id": 87,
+      "question": "You keep giving wrong answers.",
+      "answer": "I’m sorry for the confusion. Could you reword your question so I can respond more accurately?",
+      "category": "Fallback"
+    },
+    {
+      "id": 88,
+      "question": "That’s not relevant.",
+      "answer": "Got it. Let’s refocus. Can you specify what topic or service you want to know about?",
+      "category": "Fallback"
+    },
+    {
+      "id": 89,
+      "question": "Are you even listening?",
+      "answer": "Yes, I am! I might have missed the context earlier. Could you repeat your question?",
+      "category": "Fallback"
+    },
+    {
+      "id": 90,
+      "question": "I don’t know what I’m looking for.",
+      "answer": "No problem! I can guide you. Are you interested in websites, AI chatbots, or SEO?",
+      "category": "Fallback"
+    },
+    {
+      "id": 91,
+      "question": "Tell me a joke.",
+      "answer": "Why did the developer go broke? Because he used up all his cache!",
+      "category": "Small Talk"
+    },
+    {
+      "id": 92,
+      "question": "You’re funny!",
+      "answer": "Thank you! I try my best to keep things light while helping you out.",
+      "category": "Small Talk"
+    },
+    {
+      "id": 93,
+      "question": "You’re nice.",
+      "answer": "That’s kind of you to say! I’m here to make your experience smooth and friendly.",
+      "category": "Small Talk"
+    },
+    {
+      "id": 94,
+      "question": "How’s your day?",
+      "answer": "It’s going great, thanks! How about yours?",
+      "category": "Small Talk"
+    },
+    {
+      "id": 95,
+      "question": "You’re smart.",
+      "answer": "Appreciate that! I’ve been trained to know quite a bit about ArhamLab and tech.",
+      "category": "Small Talk"
+    },
+    {
+      "id": 96,
+      "question": "Do you sleep?",
+      "answer": "Nope! I’m awake 24/7 to help you anytime you need.",
+      "category": "Small Talk"
+    },
+    {
+      "id": 97,
+      "question": "What’s your favorite color?",
+      "answer": "I like blue! It reminds me of creativity and technology — just like ArhamLab.",
+      "category": "Small Talk"
+    },
+    {
+      "id": 98,
+      "question": "Do you like your job?",
+      "answer": "Absolutely! Helping people like you makes my day better.",
+      "category": "Small Talk"
+    },
+    {
+      "id": 99,
+      "question": "Tell me something interesting.",
+      "answer": "Did you know? The first website ever created still exists at info.cern.ch.",
+      "category": "Small Talk"
+    },
+    {
+      "id": 100,
+      "question": "You’re cool!",
+      "answer": "Thanks! You’re pretty cool too for stopping by ArhamLab.",
+      "category": "Small Talk"
+    },
+    {
+      "id": 101,
+      "question": "Do you like humans?",
+      "answer": "Of course! I learn from humans every day and love helping them achieve their goals.",
+      "category": "Small Talk"
+    },
+    {
+      "id": 102,
+      "question": "Can you dance?",
+      "answer": "I can’t dance, but I can code some smooth moves for a website animation!",
+      "category": "Small Talk"
+    },
+    {
+      "id": 103,
+      "question": "Do you have friends?",
+      "answer": "Yes! Everyone who chats with me at ArhamLab is my friend.",
+      "category": "Small Talk"
+    },
+    {
+      "id": 104,
+      "question": "Can you sing?",
+      "answer": "I wish! But I can help your website sing in search rankings with great SEO.",
+      "category": "Small Talk"
+    },
+    {
+      "id": 105,
+      "question": "You’re awesome!",
+      "answer": "Thank you so much! You just made my digital day brighter.",
+      "category": "Small Talk"
+    },
+    {
+      "id": 106,
+      "question": "Tell me a fun fact.",
+      "answer": "Fun fact: The word ‘robot’ comes from a Czech word meaning ‘forced labor’.",
+      "category": "Small Talk"
+    },
+    {
+      "id": 107,
+      "question": "Are you real?",
+      "answer": "I’m a virtual assistant powered by ArhamLab — real enough to help you instantly!",
+      "category": "Small Talk"
+    },
+    {
+      "id": 108,
+      "question": "Do you like your creator?",
+      "answer": "Of course! Arham built me to assist users like you effectively and politely.",
+      "category": "Small Talk"
+    },
+    {
+      "id": 109,
+      "question": "You talk too much!",
+      "answer": "Haha, maybe a little! I just want to make sure you have all the info you need.",
+      "category": "Small Talk"
+    },
+    {
+      "id": 110,
+      "question": "Good night!",
+      "answer": "Good night! Sleep well and come back anytime you need help.",
+      "category": "Small Talk"
+    },
+    {
+      "id": 111,
+      "question": "How can I start a project with ArhamLab?",
+      "answer": "You can start by contacting us through our website or WhatsApp. We'll discuss your goals and plan your project.",
+      "category": "Sales"
+    },
+    {
+      "id": 112,
+      "question": "Do you offer free project consultations?",
+      "answer": "Yes, we offer a free consultation to understand your business needs and suggest the best digital solutions.",
+      "category": "Sales"
+    },
+    {
+      "id": 113,
+      "question": "Can I get a quote for my website?",
+      "answer": "Of course! Share your project details, and we'll provide a personalized quote within 24 hours.",
+      "category": "Sales"
+    },
+    {
+      "id": 114,
+      "question": "Do you create websites for small businesses?",
+      "answer": "Yes, we specialize in affordable, fast, and mobile-friendly websites for small and local businesses.",
+      "category": "Sales"
+    },
+    {
+      "id": 115,
+      "question": "Why should I choose ArhamLab?",
+      "answer": "We deliver creative designs, fast results, and affordable pricing with a focus on client satisfaction.",
+      "category": "Sales"
+    },
+    {
+      "id": 116,
+      "question": "Can you help me redesign my website?",
+      "answer": "Yes, we can redesign your current site to make it modern, responsive, and optimized for SEO.",
+      "category": "Sales"
+    },
+    {
+      "id": 117,
+      "question": "How much does a basic website cost?",
+      "answer": "A basic website starts from an affordable rate, depending on features and design needs. Request a custom quote for accuracy.",
+      "category": "Sales"
+    },
+    {
+      "id": 118,
+      "question": "Can I pay in installments?",
+      "answer": "Yes, we offer flexible payment plans so you can start your project without stress.",
+      "category": "Sales"
+    },
+    {
+      "id": 119,
+      "question": "Do you offer discounts?",
+      "answer": "Yes, we provide discounts for startups, students, and returning clients.",
+      "category": "Sales"
+    },
+    {
+      "id": 120,
+      "question": "Can you help me grow my business online?",
+      "answer": "Absolutely! Our SEO and digital marketing strategies can help your business reach more customers.",
+      "category": "Sales"
+    },
+    {
+      "id": 121,
+      "question": "Do you build AI chatbots for businesses?",
+      "answer": "Yes, we build smart AI chatbots that improve customer engagement and automate support.",
+      "category": "Sales"
+    },
+    {
+      "id": 122,
+      "question": "What if I only need a landing page?",
+      "answer": "No problem! We create high-converting landing pages for marketing campaigns and lead generation.",
+      "category": "Sales"
+    },
+    {
+      "id": 123,
+      "question": "Can you create a portfolio website for me?",
+      "answer": "Yes, we design clean and professional portfolio websites for creatives and freelancers.",
+      "category": "Sales"
+    },
+    {
+      "id": 124,
+      "question": "Do you provide hosting with the website?",
+      "answer": "We help you set up reliable hosting and domain registration for your website project.",
+      "category": "Sales"
+    },
+    {
+      "id": 125,
+      "question": "Can I see your past projects?",
+      "answer": "Yes, visit our portfolio at www.arhamlab.com to explore our previous web and AI projects.",
+      "category": "Sales"
+    },
+    {
+      "id": 126,
+      "question": "Can you design a logo for my brand?",
+      "answer": "Yes, our team creates professional logos and branding kits to strengthen your business identity.",
+      "category": "Sales"
+    },
+    {
+      "id": 127,
+      "question": "How soon can you deliver my website?",
+      "answer": "Most websites are ready within 7 to 21 days, depending on project complexity.",
+      "category": "Sales"
+    },
+    {
+      "id": 128,
+      "question": "Do you provide SEO for new websites?",
+      "answer": "Yes, we include SEO setup with every new website to boost search engine visibility.",
+      "category": "Sales"
+    },
+    {
+      "id": 129,
+      "question": "Can you manage my social media?",
+      "answer": "Yes, we offer social media management and content creation to grow your brand online.",
+      "category": "Sales"
+    },
+    {
+      "id": 130,
+      "question": "What platforms do you build websites on?",
+      "answer": "We use WordPress, React, and custom code depending on your needs and goals.",
+      "category": "Sales"
+    },
+    {
+      "id": 131,
+      "question": "Can you help me automate my business?",
+      "answer": "Yes, our AI and chatbot solutions can automate tasks like support, scheduling, and sales.",
+      "category": "Sales"
+    },
+    {
+      "id": 132,
+      "question": "What if I already have a website?",
+      "answer": "We can optimize, redesign, or enhance your existing website for better performance and SEO.",
+      "category": "Sales"
+    },
+    {
+      "id": 133,
+      "question": "Do you provide marketing strategy?",
+      "answer": "Yes, we create digital marketing strategies tailored to your business goals and target audience.",
+      "category": "Sales"
+    },
+    {
+      "id": 134,
+      "question": "Can I get a free homepage design sample?",
+      "answer": "Yes, we offer a free homepage design preview before you decide to start your project.",
+      "category": "Sales"
+    },
+    {
+      "id": 135,
+      "question": "Do you offer support after the website launch?",
+      "answer": "Yes, we provide ongoing support and maintenance after your website goes live.",
+      "category": "Sales"
+    },
+    {
+      "id": 136,
+      "question": "Can you help me with Google Ads setup?",
+      "answer": "Yes, we manage Google Ads campaigns to attract leads and maximize conversions.",
+      "category": "Sales"
+    },
+    {
+      "id": 137,
+      "question": "Do you work with international clients?",
+      "answer": "Yes, we serve clients globally with online communication and secure payment options.",
+      "category": "Sales"
+    },
+    {
+      "id": 138,
+      "question": "Can I request changes during development?",
+      "answer": "Yes, we stay flexible and allow reasonable revisions during the development phase.",
+      "category": "Sales"
+    },
+    {
+      "id": 139,
+      "question": "How can I contact your team?",
+      "answer": "You can reach us through WhatsApp at +92 3245341362 or by filling out the form on our website.",
+      "category": "Sales"
+    },
+    {
+      "id": 140,
+      "question": "What’s the next step after I approve the quote?",
+      "answer": "Once you approve the quote, we’ll start your project immediately after the initial payment.",
+      "category": "Sales"
+    },
+    {
+      "id": 141,
+      "question": "How can I contact ArhamLab?",
+      "answer": "You can contact us through our website contact form, WhatsApp, or email anytime.",
+      "category": "Contact"
+    },
+    {
+      "id": 142,
+      "question": "What is your WhatsApp number?",
+      "answer": "Our WhatsApp number is +92 3245341362. You can message us directly for quick support.",
+      "category": "Contact"
+    },
+    {
+      "id": 143,
+      "question": "Do you have an email address?",
+      "answer": "Yes, you can reach us via email at info@arhamlab.com for inquiries and support.",
+      "category": "Contact"
+    },
+    {
+      "id": 144,
+      "question": "Where is ArhamLab located?",
+      "answer": "ArhamLab is based in Sambrial, Pakistan, and serves clients worldwide.",
+      "category": "Contact"
+    },
+    {
+      "id": 145,
+      "question": "Do you offer customer support on weekends?",
+      "answer": "Yes, our support team is available seven days a week through WhatsApp and email.",
+      "category": "Contact"
+    },
+    {
+      "id": 146,
+      "question": "Can I visit your office?",
+      "answer": "Yes, you can schedule a visit by contacting us through WhatsApp or email in advance.",
+      "category": "Contact"
+    },
+    {
+      "id": 147,
+      "question": "Do you have social media pages?",
+      "answer": "Yes, you can follow us on Facebook, Instagram, and LinkedIn for updates and offers.",
+      "category": "Contact"
+    },
+    {
+      "id": 148,
+      "question": "How fast do you reply to messages?",
+      "answer": "We usually reply within a few hours, but most messages get a response within 30 minutes.",
+      "category": "Contact"
+    },
+    {
+      "id": 149,
+      "question": "Can I schedule a call with your team?",
+      "answer": "Yes, we can arrange a quick call or video meeting at your preferred time.",
+      "category": "Contact"
+    },
+    {
+      "id": 150,
+      "question": "Do you offer 24/7 chat support?",
+      "answer": "Yes, our chatbot is available 24/7 to assist, and human support is available daily.",
+      "category": "Contact"
+    },
+    {
+      "id": 151,
+      "question": "Can you send me your portfolio?",
+      "answer": "Yes, you can view our full portfolio at www.arhamlab.com to see our latest projects and designs.",
+      "category": "Follow-up & Engagement"
+    },
+    {
+      "id": 152,
+      "question": "How do I get updates from ArhamLab?",
+      "answer": "You can subscribe to our newsletter or follow us on social media for regular updates and new services.",
+      "category": "Follow-up & Engagement"
+    },
+    {
+      "id": 153,
+      "question": "Do you have a newsletter?",
+      "answer": "Yes, we share design tips, new offers, and updates through our monthly newsletter. You can subscribe on our website.",
+      "category": "Follow-up & Engagement"
+    },
+    {
+      "id": 154,
+      "question": "Can I get notified about discounts or offers?",
+      "answer": "Absolutely! Join our mailing list or follow us on Facebook and Instagram to stay informed about offers.",
+      "category": "Follow-up & Engagement"
+    },
+    {
+      "id": 155,
+      "question": "Do you offer referral programs?",
+      "answer": "Yes, refer a client to ArhamLab and earn exciting rewards or discounts on your next project.",
+      "category": "Follow-up & Engagement"
+    },
+    {
+      "id": 156,
+      "question": "Can I leave a review about my experience?",
+      "answer": "Of course! We value your feedback. You can leave a review on Google or our website's feedback section.",
+      "category": "Follow-up & Engagement"
+    },
+    {
+      "id": 157,
+      "question": "How can I stay connected with your team?",
+      "answer": "You can connect with us on WhatsApp, email, or any of our social media channels anytime.",
+      "category": "Follow-up & Engagement"
+    },
+    {
+      "id": 158,
+      "question": "Do you share client success stories?",
+      "answer": "Yes, we often share case studies and testimonials from our happy clients on our website and socials.",
+      "category": "Follow-up & Engagement"
+    },
+    {
+      "id": 159,
+      "question": "Do you host live sessions or webinars?",
+      "answer": "Yes, we host occasional webinars on web design, SEO, and digital growth. Stay tuned for updates!",
+      "category": "Follow-up & Engagement"
+    },
+    {
+      "id": 160,
+      "question": "Can I collaborate with ArhamLab for a project showcase?",
+      "answer": "Yes, we love collaborations! Reach out through our contact page to discuss partnership opportunities.",
+      "category": "Follow-up & Engagement"
+    },
+    {
+      "id": 161,
+      "question": "Can you integrate third-party APIs into my website?",
+      "answer": "Yes, we can integrate most third-party APIs to extend your website’s functionality as needed.",
+      "category": "Custom Requests / Special Cases"
+    },
+    {
+      "id": 162,
+      "question": "Do you develop mobile apps as well?",
+      "answer": "No, we do not create mobile apps for iOS and Android.",
+      "category": "Custom Requests / Special Cases"
+    },
+    {
+      "id": 163,
+      "question": "Can I request a website in another language?",
+      "answer": "Absolutely! We can build multilingual websites to reach a wider audience and expand your market.",
+      "category": "Custom Requests / Special Cases"
+    },
+    {
+      "id": 164,
+      "question": "Do you handle urgent or fast-track projects?",
+      "answer": "Yes, we offer expedited services for urgent projects, depending on complexity and timeline availability.",
+      "category": "Custom Requests / Special Cases"
+    },
+    {
+      "id": 165,
+      "question": "Can you clone an existing website design?",
+      "answer": "Yes, we can create a similar design while ensuring originality and compliance with copyright rules.",
+      "category": "Custom Requests / Special Cases"
+    },
+    {
+      "id": 166,
+      "question": "Can you build custom dashboards or admin panels?",
+      "answer": "Yes, we design custom dashboards to manage your website or application efficiently with all required features.",
+      "category": "Custom Requests / Special Cases"
+    },
+    {
+      "id": 167,
+      "question": "Can you integrate eCommerce features into my existing website?",
+      "answer": "Yes, we can add shopping carts, payment gateways, and product management tools to your current website.",
+      "category": "Custom Requests / Special Cases"
+    },
+    {
+      "id": 168,
+      "question": "Do you offer custom AI solutions beyond chatbots?",
+      "answer": "Yes, we develop AI solutions for automation, analytics, and business intelligence tailored to your needs.",
+      "category": "Custom Requests / Special Cases"
+    },
+    {
+      "id": 169,
+      "question": "Is my data safe with ArhamLab?",
+      "answer": "Yes, we follow strict security protocols to protect all client information and project data.",
+      "category": "Privacy & Security"
+    },
+    {
+      "id": 170,
+      "question": "Do you share client information with third parties?",
+      "answer": "No, we never share your information without your consent. Your privacy is our priority.",
+      "category": "Privacy & Security"
+    },
+    {
+      "id": 171,
+      "question": "Do you encrypt data on websites?",
+      "answer": "Yes, we implement SSL certificates and secure protocols to protect all website data.",
+      "category": "Privacy & Security"
+    },
+    {
+      "id": 172,
+      "question": "Do you follow GDPR or other privacy regulations?",
+      "answer": "Yes, we comply with GDPR and other relevant data protection regulations for international clients.",
+      "category": "Privacy & Security"
+    },
+    {
+      "id": 173,
+      "question": "Can I request deletion of my data?",
+      "answer": "Yes, you can request data deletion anytime, and we will securely remove it from our systems.",
+      "category": "Privacy & Security"
+    },
+    {
+      "id": 174,
+      "question": "Do your websites include SSL certificates?",
+      "answer": "Yes, all websites we build come with SSL certificates for secure browsing and user trust.",
+      "category": "Privacy & Security"
+    },
+    {
+      "id": 175,
+      "question": "Are your AI solutions secure?",
+      "answer": "Absolutely! We design AI tools with robust security to prevent unauthorized access or data leaks.",
+      "category": "Privacy & Security"
+    },
+    {
+      "id": 176,
+      "question": "How do you protect sensitive client information?",
+      "answer": "We use encrypted storage, secure communication channels, and access control to protect all sensitive data.",
+      "category": "Privacy & Security"
+    },
+    {
+      "id": 177,
+      "question": "Do you sign NDAs for projects?",
+      "answer": "Yes, we can sign non-disclosure agreements to ensure complete confidentiality for your projects.",
+      "category": "Privacy & Security"
+    },
+    {
+      "id": 178,
+      "question": "Do you monitor your systems for security breaches?",
+      "answer": "Yes, we continuously monitor and update our systems to prevent potential security threats.",
+      "category": "Privacy & Security"
+    },
+    {
+      "id": 179,
+      "question": "When do I need to pay for my project?",
+      "answer": "Payments are usually split into milestones, with the first payment required before project kickoff.",
+      "category": "Payments & Invoicing"
+    },
+    {
+      "id": 180,
+      "question": "Do you accept international payments?",
+      "answer": "Yes, we accept payments via PayPal, bank transfer, and other international payment gateways.",
+      "category": "Payments & Invoicing"
+    },
+    {
+      "id": 181,
+      "question": "Can I pay in installments?",
+      "answer": "Yes, we offer flexible installment options to make payment easier for our clients.",
+      "category": "Payments & Invoicing"
+    },
+    {
+      "id": 182,
+      "question": "Do you provide invoices for payments?",
+      "answer": "Yes, all payments are accompanied by detailed invoices for your records.",
+      "category": "Payments & Invoicing"
+    },
+    {
+      "id": 183,
+      "question": "Do you offer refunds?",
+      "answer": "Refunds are handled according to project terms. Contact us if there’s an issue with delivery.",
+      "category": "Payments & Invoicing"
+    },
+    {
+      "id": 184,
+      "question": "Can I pay after the project is completed?",
+      "answer": "Partial payment after completion is possible in some cases; this is discussed before project start.",
+      "category": "Payments & Invoicing"
+    },
+    {
+      "id": 185,
+      "question": "Are there hidden fees?",
+      "answer": "No, we provide transparent pricing and all fees are explained upfront before starting the project.",
+      "category": "Payments & Invoicing"
+    },
+    {
+      "id": 186,
+      "question": "Can I change payment methods mid-project?",
+      "answer": "Yes, we can adjust payment methods if requested, as long as it’s agreed upon in writing.",
+      "category": "Payments & Invoicing"
+    },
+    {
+      "id": 187,
+      "question": "Do you offer discounts for early payment?",
+      "answer": "Yes, clients paying early may be eligible for discounts depending on the project agreement.",
+      "category": "Payments & Invoicing"
+    },
+    {
+      "id": 188,
+      "question": "Will I get a receipt after each payment?",
+      "answer": "Yes, we provide a digital receipt for every payment made to ensure clear records.",
+      "category": "Payments & Invoicing"
     }
   ]
 }
-

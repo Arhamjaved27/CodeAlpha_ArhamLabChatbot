@@ -10,7 +10,7 @@ from app.chatbot import FAQChatbot
 # Initialize FastAPI app
 app = FastAPI(
     title="FAQ Chatbot",
-    description="A simple FAQ chatbot using FastAPI, SpaCy, and TF-IDF",
+    description="A simple FAQ chatbot using FastAPI, SpaCy, and TF-IDF Developed by Arham",
     version="1.0.0"
 )
 

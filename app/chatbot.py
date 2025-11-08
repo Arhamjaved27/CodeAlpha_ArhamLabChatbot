@@ -1,5 +1,6 @@
 import json
 import os
+import re
 from typing import List, Tuple, Optional
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
@@ -28,14 +29,21 @@ class FAQChatbot:
         if not os.path.isabs(faqs_file):
             project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
             faqs_file = os.path.join(project_root, faqs_file)
-        
+
         self.faqs_file = faqs_file
         self.faqs: List[FAQ] = []
         self.nlp = load_spacy_model()
         self.vectorizer = TfidfVectorizer()
         self.faq_vectors = None
         self.processed_questions = []
-        
+        # Default responses for simple conversational intents
+        # These can be overridden by passing kwargs or modifying the instance
+        self.greeting_response = "Hello! How can I help you today?"
+        self.goodbye_response = "Goodbye! If you need anything else, just ask. Have a great day!"
+        # Simple phrase lists for detection (case-insensitive)
+        self._greeting_patterns = re.compile(r"\b(hi|hello|hey|greetings|good morning|good afternoon|good evening)\b", re.I)
+        self._goodbye_patterns = re.compile(r"\b(bye|goodbye|see you|see ya|take care|farewell)\b", re.I)
+
         self.load_faqs()
         self.build_index()
     
@@ -109,6 +117,24 @@ class FAQChatbot:
                 "confidence": 0.0,
                 "matched_question": None,
                 "category": None
+            }
+
+        # Check for simple conversational intents (greeting / goodbye)
+        # Use simple regex matching so we don't rely on the TF-IDF index for short chit-chat
+        if self._greeting_patterns.search(user_question):
+            return {
+                "answer": self.greeting_response,
+                "confidence": 1.0,
+                "matched_question": None,
+                "category": "smalltalk:greeting"
+            }
+
+        if self._goodbye_patterns.search(user_question):
+            return {
+                "answer": self.goodbye_response,
+                "confidence": 1.0,
+                "matched_question": None,
+                "category": "smalltalk:goodbye"
             }
         
         best_faq, confidence = self.find_best_match(user_question)
