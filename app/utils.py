@@ -24,7 +24,6 @@ def preprocess_text(text: str, nlp) -> str:
     - Remove punctuation and special characters
     - Convert to lowercase
     """
-    # Process text with SpaCy
     doc = nlp(text.lower())
     
     # Extract lemmatized tokens, excluding stopwords and punctuation

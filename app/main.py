@@ -7,28 +7,24 @@ import os
 from app.models import ChatRequest, ChatResponse, FAQ
 from app.chatbot import FAQChatbot
 
-# Initialize FastAPI app
 app = FastAPI(
     title="FAQ Chatbot",
     description="A simple FAQ chatbot using FastAPI, SpaCy, and TF-IDF Developed by Arham",
     version="1.0.0"
 )
 
-# Initialize chatbot
 try:
     chatbot = FAQChatbot()
 except Exception as e:
     chatbot = None
     print(f"Warning: Could not initialize chatbot: {e}")
 
-# Mount static files
 static_path = os.path.join(os.path.dirname(__file__), "..", "static")
 templates_path = os.path.join(os.path.dirname(__file__), "..", "templates")
 
 if os.path.exists(static_path):
     app.mount("/static", StaticFiles(directory=static_path), name="static")
 
-# Initialize templates
 templates = None
 if os.path.exists(templates_path):
     templates = Jinja2Templates(directory=templates_path)

@@ -25,7 +25,6 @@ class FAQChatbot:
             project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
             faqs_file = os.path.join(project_root, "data", "faqs.json")
         
-        # Convert to absolute path if relative
         if not os.path.isabs(faqs_file):
             project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
             faqs_file = os.path.join(project_root, faqs_file)
@@ -36,11 +35,9 @@ class FAQChatbot:
         self.vectorizer = TfidfVectorizer()
         self.faq_vectors = None
         self.processed_questions = []
-        # Default responses for simple conversational intents
-        # These can be overridden by passing kwargs or modifying the instance
         self.greeting_response = "Hello! How can I help you today?"
         self.goodbye_response = "Goodbye! If you need anything else, just ask. Have a great day!"
-        # Simple phrase lists for detection (case-insensitive)
+
         self._greeting_patterns = re.compile(r"\b(hi|hello|hey|greetings|good morning|good afternoon|good evening)\b", re.I)
         self._goodbye_patterns = re.compile(r"\b(bye|goodbye|see you|see ya|take care|farewell)\b", re.I)
 
